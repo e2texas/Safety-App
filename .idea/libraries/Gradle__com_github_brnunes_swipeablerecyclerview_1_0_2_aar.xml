@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.brnunes:swipeablerecyclerview:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/730b29a9f52278331f7eebe49e7e1943/swipeablerecyclerview-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/730b29a9f52278331f7eebe49e7e1943/swipeablerecyclerview-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/730b29a9f52278331f7eebe49e7e1943/swipeablerecyclerview-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.brnunes/swipeablerecyclerview/1.0.2/bb8f18a6648316d46c6262b9ecd041ad60b65fbd/swipeablerecyclerview-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.brnunes/swipeablerecyclerview/1.0.2/57cada785d6c94ce182966dac1d634b3937b0ef0/swipeablerecyclerview-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
